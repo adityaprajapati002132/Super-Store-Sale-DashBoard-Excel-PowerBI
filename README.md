@@ -98,10 +98,10 @@ Copy code
 ---
 
 ## 🤝 Connect With Me
-**Name:** Your Name  
-📧 Email: yourmail@email.com  
-🔗 LinkedIn: https://linkedin.com/in/your-profile  
-💼 GitHub: https://github.com/your-profile  
+**Name:** Aditya Kumar  
+📧 Email: adityaprajapati0054@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/aditya-kumar-877b6a351 
+💼 GitHub: https://github.com/adityaprajapati002132 
 
 ---
 
