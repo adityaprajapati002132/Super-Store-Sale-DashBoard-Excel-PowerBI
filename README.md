@@ -1,8 +1,7 @@
 # Super-Store-Sale-DashBoard-Excel-PowerBI
 ## 📁 Project Overview
 This project features an interactive **Super Store Sales Dashboard** created in **Power BI** to analyze key business metrics such as sales, profit, customer segments, regions, and product categories. The dashboard supports data-driven decision-making by uncovering insights from retail business data.
-
----
+<p align="center"> <img src="Screenshot 2025-11-05 002543.png" alt="Super Store Sales DashBoard Preview" width="95%"> </p>
 
 ## 🎯 Objectives
 - Track overall sales, profit, and orders
