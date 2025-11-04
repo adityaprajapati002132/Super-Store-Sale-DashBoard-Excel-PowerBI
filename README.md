@@ -66,8 +66,7 @@ This project features an interactive **Super Store Sales Dashboard** created in 
 ┣ 🖼️ Dashboard_Screenshot.png
 ┗ 📄 README.md
 
-yaml
-Copy code
+[Dashboard Preview](Super Store Sales DashBoard Preview.png)
 
 ---
 
