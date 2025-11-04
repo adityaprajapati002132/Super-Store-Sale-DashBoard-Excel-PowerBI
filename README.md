@@ -89,8 +89,55 @@ Copy code
 
 ---
 
-## 🖼️ Dashboard Preview
-> *(Add screenshot in repo as Dashboard_Screenshot.png)*  
+📝 Project Highlights
+✅ 1. Best-In-Class Dashboard Overview
+
+Designed a highly interactive and visually appealing Superstore performance dashboard in Power BI, delivering a seamless storytelling experience. The dashboard combines KPI cards, slicers, line charts, bar graphs, donut charts, and geo-mapping to present a unified 360° view of business performance across regions, segments, and product categories.
+
+🛑 2. Business Problem
+
+The company lacked a centralized analytics system to track sales and profit performance across multiple dimensions. Decision-makers needed a clear and real-time understanding of which products, regions, and customer segments were driving profits or losses to optimize strategy, inventory planning, and marketing focus.
+
+🎯 3. Goal of the Dashboard
+
+To build a dynamic reporting dashboard that helps business leaders:
+
+Track sales, orders, and profit KPIs
+
+Compare performance across regions, segments, and product lines
+
+Analyze buying behavior and delivery patterns
+
+Identify revenue drivers and cost leakage areas
+
+Support data-driven business decisions and growth planning
+
+👁️ 4. Walkthrough of Key Visuals (Brief)
+
+KPI Cards – Displays total sales, orders, profit, and average shipping time
+
+Line Charts – Monthly sales & profit trend for multi-year comparison
+
+Category & Sub-category Bars – Identifies top-performing product groups
+
+Donut Charts – Breakdown by customer segment, payment mode, and region
+
+Map Visualization – State-wise distribution of sales & profit across the U.S.
+
+Filters/Slicers – Region & year filters for interactive analysis
+
+💼 5. Business Impact & Insights
+
+Identified consumer segment as the most profitable customer base
+
+West region stood out as the top-performing market
+
+Office supplies & technology proved to be key revenue contributors
+
+Standard shipping mode most preferred — cost-efficient logistics strategy
+
+Seasonal sales peak at year-end, supporting forecasting & inventory planning
+This dashboard enables leadership to make data-backed decisions, refine product strategy, and optimize operations for revenue growth. 
 
 yaml
 Copy code
